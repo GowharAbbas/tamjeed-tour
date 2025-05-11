@@ -2,21 +2,21 @@
   {
     "id" : 1,
     "name" : "HoneyMoon",
-    "image" : "/Images/honeymoon.jpg"
+    "image" : "/tamjeed-tour/Images/honeymoon.jpg"
   },
   {
     "id" : 2,
     "name" : "Family Package",
-    "image" : "/Images/family.jpg"
+    "image" : "/tamjeed-tour/Images/family.jpg"
   },
   {
     "id" : 3,
     "name" : "5 Days Package",
-    "image" : "/Images/5days.jpg"
+    "image" : "/tamjeed-tour/Images/5days.jpg"
   },
   {
     "id" : 4,
     "name" : "7 Days Package",
-    "image" : "/Images/7days.jpg"
+    "image" : "/tamjeed-tour/Images/7days.jpg"
   }
 ]
