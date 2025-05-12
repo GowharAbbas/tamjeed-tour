@@ -56,9 +56,6 @@ function Index() {
             <div className="hero-content w-100 d-flex flex-column justify-content-center align-items-center">
               <h2 className="text-white">THE PARADISE ON EARTH</h2>
               <h1 className="text-white">KASHMIR</h1>
-              <button className="btn text-white hero-btn mt-5">
-                LEARN MORE <img src={btnArrow} className="img-fluid" alt="" />
-              </button>
             </div>
           </div>
         </SwiperSlide>
@@ -68,9 +65,6 @@ function Index() {
             <div className="hero-content w-100 d-flex flex-column justify-content-center align-items-center">
               <h2 className="text-white">THE PARADISE ON EARTH</h2>
               <h1 className="text-white">KASHMIR</h1>
-              <button className="btn text-white hero-btn mt-5">
-                LEARN MORE <img src={btnArrow} className="img-fluid" alt="" />
-              </button>
             </div>
           </div>
         </SwiperSlide>
@@ -303,6 +297,10 @@ function Index() {
         </div>
       </div>
 
+      {/* Contact */}
+      <div className="text-center d-flex flex-column align-items-center justify-content-center gap-3">
+        <h2>Contact Us</h2>
+      </div>
       {/* Banner */}
 
       <div className="blog-banner py-5 container-fluid d-flex justify-content-center align-items-center">
