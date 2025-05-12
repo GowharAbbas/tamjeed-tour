@@ -63,13 +63,7 @@ function Nav() {
               <a href="#packagespage">Packages</a>
             </li>
             <li className="nav-item">
-              <a
-                href="https://wa.me/919541272705"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Contact
-              </a>
+              <a href="#contactpage">Contact</a>
             </li>
           </ul>
         </div>

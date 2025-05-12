@@ -725,3 +725,37 @@ body{
        width: 100%;
    }
 }
+
+
+.section-title {
+  background-color: #f8f9fa; /* Light gray background */
+}
+.contact-us{
+  max-width: 500px;
+  width: 100%;
+}
+.contact-us .paragraph {
+  font-weight: 600;
+  margin: 0.3rem 0;
+  color: #343a40; /* Dark text */
+}
+
+.instagram-link {
+  font-weight: 600;
+  color: #e1306c;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.instagram-link:hover {
+  color: #ad1457;
+}
+
+.instagram-icon {
+  width: 24px;
+  height: 24px;
+}
+.paragraph{
+  font-weight: 600;
+  white-space: nowrap;
+}

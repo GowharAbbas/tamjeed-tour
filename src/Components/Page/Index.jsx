@@ -22,8 +22,8 @@ import tst2 from "./../../assets/tst-2.webp";
 import tst3 from "./../../assets/tst-3.webp";
 import tst4 from "./../../assets/tst-4.webp";
 import abElement1 from "./../../assets/about-element-1.webp";
-import abElement2 from "./../../assets/about-element-2.webp";
 import abElement3 from "./../../assets/about-element-3.webp";
+import Instagram from "./../../assets/instagram.webp";
 function Index() {
   return (
     <>
@@ -298,9 +298,29 @@ function Index() {
       </div>
 
       {/* Contact */}
-      <div className="text-center d-flex flex-column align-items-center justify-content-center gap-3">
-        <h2>Contact Us</h2>
+      <div className="section-title py-5 px-5 px-md-6" id="contactpage">
+        <div className="text-center d-flex flex-column align-items-center justify-content-center gap-3">
+          <h2 className="fw-bold">Contact Us</h2>
+          <div className="contact-us text-center">
+            <p className="paragraph text-nowrap">CEO: Tamjeed Hussain Wani</p>
+            <p className="paragraph text-nowrap">Manager: Arif Ali</p>
+            <p className="paragraph text-nowrap">Phone: +91 9541272705</p>
+            <p className="paragraph text-nowrap">
+              Email: tamjeedtours1@gmail.com
+            </p>
+            <a
+              href="https://www.instagram.com/tamjeedtours_"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="instagram-link d-inline-flex align-items-center gap-2 mt-2"
+            >
+              <img src={Instagram} className="instagram-icon" alt="Instagram" />
+              <span>Our Instagram</span>
+            </a>
+          </div>
+        </div>
       </div>
+
       {/* Banner */}
 
       <div className="blog-banner py-5 container-fluid d-flex justify-content-center align-items-center">
