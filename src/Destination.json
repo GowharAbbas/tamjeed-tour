@@ -2,70 +2,70 @@
   {
     "id" : 1,
     "name" : "Dal Lake",
-    "image" : "/tamjeed-tour/Images/dallake.jpg",
+    "image" : "/Images/dallake.jpg",
     "location" : "Srinagar",
     "pere" : "Dal Lake mirrors heaven on earth, cradling Kashmir in serene splendor."
   },
   {
     "id" : 2,
     "name" : "Gulmarg",
-    "image" : "/tamjeed-tour/Images/gulmarg.jpg",
+    "image" : "/Images/gulmarg.jpg",
     "location" : "Baramulla",
     "pere" : "Gulmarg a snowy paradise, whispers peace through pine forests and velvet meadows."
   },
   {
     "id" : 3,
     "name" : "Pahalgam",
-    "image" : "/tamjeed-tour/Images/pahalgam.jpg",
+    "image" : "/Images/pahalgam.jpg",
     "location" : "Anantnag",
     "pere" : "Pahalgam a snowy paradise, whispers peace through pine forests and velvet meadows."
   },
   {
     "id" : 4,
     "name" : "Sonamarg",
-    "image" : "/tamjeed-tour/Images/sonamarg.jpg",
+    "image" : "/Images/sonamarg.jpg",
     "location" : "Gandarbal",
     "pere" : "Sonamarg glows golden at dawn, where glaciers kiss skies and rivers sing."
   },
   {
     "id" : 5,
     "name" : "Doodhpathri",
-    "image" : "/tamjeed-tour/Images/doodhpathri.jpg",
+    "image" : "/Images/doodhpathri.jpg",
     "location" : "Budgam",
     "pere" : "Doodhpathri flows with milky streams, nestled in meadows of pure tranquility."
   },
   {
     "id" : 6,
     "name" : "Tosamaidan",
-    "image" : "/tamjeed-tour/Images/tosamadan.jpg",
+    "image" : "/Images/tosamadan.jpg",
     "location" : "Budgam",
     "pere" : "Tosamaidan stretches wide and wild, echoing tales of freedom, peace, and beauty."
   },
   {
     "id" : 7,
     "name" : "Mughal Gardens",
-    "image" : "/tamjeed-tour/Images/mughalgarden.jpg",
+    "image" : "/Images/mughalgarden.jpg",
     "location" : "Srinagar",
     "pere" : "Mughal Gardens bloom in timeless grace, where nature meets royal artistry in harmony."
   },
   {
     "id" : 8,
     "name" : "Yousmarg",
-    "image" : "/tamjeed-tour/Images/yousmarg.jpg",
+    "image" : "/Images/yousmarg.jpg",
     "location" : "Srinagar",
     "pere" : "Yousmarg whispers serenity through pine-clad hills and meadows kissed by clouds"
   },
   {
     "id" : 9,
     "name" : "Drung Waterfall",
-    "image" : "/tamjeed-tour/Images/drung.jpg",
+    "image" : "/Images/drung.jpg",
     "location" : "Baramulla",
     "pere" : "Drung Tangmarg roars with icy waterfalls, wrapped in mist and forested calm."
   },
   {
     "id" : 10,
     "name" : "Tulip Garden",
-    "image" : "/tamjeed-tour/Images/tulipgarden.jpg",
+    "image" : "/Images/tulipgarden.jpg",
     "location" : "Srinagar",
     "pere" : "Tulip Garden in Srinagar blooms beautifully each spring with vibrant colored tulips."
   }

@@ -1,12 +1,41 @@
-# React + Vite
+# Tamjeed Tours and Travels
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React + Vite static website for `tamjeedtour.com`.
 
-Currently, two official plugins are available:
+## Run locally (Windows)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Install Node.js (LTS) if it is not already installed.
+2. Open this project folder in VS Code.
+3. Open Terminal > New Terminal.
+4. Run:
 
-## Expanding the ESLint configuration
+   ```bash
+   npm install
+   npm run dev
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+5. Open the local URL printed in the terminal (usually `http://localhost:5173`).
+
+## Build and deploy
+
+After testing your changes locally, run:
+
+```bash
+npm run deploy
+```
+
+The `predeploy` script builds the Vite site and `gh-pages -d dist` publishes the `dist` folder. The custom domain is preserved through `public/CNAME`.
+
+## Tour packages
+
+The package listing contains eight Kashmir packages with the names, displayed prices, durations, routes and key highlights transcribed from the reference screenshots supplied for the redesign. Package itineraries are original suggested day plans composed from those routes and visible highlights; they are not claimed to be exact copies of the reference site's full itinerary pages. Common inclusions and exclusions are indicative only. Confirm the actual itinerary, accommodation, meals, activity fees, availability and final price with Tamjeed Tours before accepting payment.
+
+## Contact details
+
+- Phone / WhatsApp: +91 95412 72705
+- Email: tamjeedtours1@gmail.com
+- Instagram: @tamjeedtours_
+
+## Important
+
+Keep a backup of your existing working project. Do not deploy until you have checked the site locally and verified all package details and business contact information with the client.
